@@ -1,0 +1,6 @@
+ID;complaintsID;title;description;status;employeeId;dateRegistered
+a101c071-9c66-45a5-902b-f6617a992ddb;Complaint1;Slow Internet Connection;Experiencing slow internet connection issues.;Open;Employee1;2021-06-27
+989017e1-b2e8-451d-be3d-db99751dbb4b;Complaint2;Faulty Printer;Printer not working properly.;Open;Employee2;2021-06-27
+3b05a78e-e635-4e2a-ad3e-d4ecc8832c85;Complaint3;Software Crashes;Frequent crashes of the software.;Open;Employee3;2021-06-27
+44653012-e415-475a-9178-724014deba76;Complaint4;Network Outage;Complete network outage in the office.;Open;Employee4;2021-06-27
+144df1a1-c13d-4dce-a230-63d76095fd37;Complaint5;Email Delivery Delay;Emails are being delivered with a delay.;Open;Employee5;2021-06-27

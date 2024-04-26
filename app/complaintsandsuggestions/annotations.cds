@@ -1,0 +1,1 @@
+using OfficeFloorSrv as service from '../../srv/service';
